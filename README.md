@@ -1,48 +1,53 @@
-## 技术栈
+### 技术栈
 
 - Element Plus (包含组件按需导入)
 - Vite
 - Vue Router
 - Pinia
 
-## Project Setup
+### 开发工具
+
+- VSCode
+- Chrome
+
+## 安装
 
 ```sh
 pnpm install
 ```
 
-### Compile and Hot-Reload for Development
+### 本地运行和调试
 
 ```sh
 pnpm dev
 ```
 
-### Type-Check, Compile and Minify for Production
+### 打包发布
 
 ```sh
 pnpm build
 ```
 
-### Run Unit Tests with [Vitest](https://vitest.dev/)
+### 单元测试 [Vitest](https://vitest.dev/)
 
 ```sh
 pnpm test:unit
 ```
 
-### Lint with [ESLint](https://eslint.org/)
+### 检测ESLint [ESLint](https://eslint.org/)
 
 ```sh
 pnpm lint
 ```
 
-### node Version
+### Node 版本
 
 - v20.14.0
 
-### pnpm Version
+### pnpm 版本
 
 - 9.3.0
 
-### npm Version
+### npm 版本
 
 - 10.7.0
